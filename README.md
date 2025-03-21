@@ -1,6 +1,6 @@
-🏆 Doce Store
+### 🏆 **Doce Store** ###
 
-📎 Sumario
+### 📎 **Sumário** ###
 
 •	📌 Resumo do Projeto
 
@@ -10,20 +10,15 @@
 
 •	✔️ Tecnologias Utilizadas
 
-•	HTML5
-
-•	CSS3
-
-
 •	💻 Demonstração
 
 •	🙋 Autora
 
-📌 Resumo do Projeto
+### 📌 **Resumo do Projeto** ###
 
 Este projeto trata-se de um desafio para fazer um layout simples de uma loja virtual, que tem como objetivo explorar os conceitos de responsividade, foi feito com uma abordagem em display grid o layout desktop e tablet. respeitando os breakpoints estabelecidos.
 
-⭐ Desafio
+### ⭐ **Desafio** ###
 
 •	Criar um layout responsivo de uma loja virtual;
 
@@ -33,7 +28,7 @@ Este projeto trata-se de um desafio para fazer um layout simples de uma loja vir
 
 •	Seguir as adaptações de layout propostas e fazer a publicação na Vercel;
 
-📂 Temas abordados
+### 📂 **Temas abordados** ###
 
 •	HTML Semântico
 
@@ -45,10 +40,13 @@ Este projeto trata-se de um desafio para fazer um layout simples de uma loja vir
 
 •	Deploy na Vercel
 
-✔️ Tecnologias Utilizadas
- 
+### ✔️ **Tecnologias Utilizadas** ###
 
-### 💻 **Demonstração** ###
+•	HTML5
+
+•	CSS3
+
+###💻 **Demonstração** ###
 
 Para visualizar uma prévia do projeto [clique aqui](https://doce-store.vercel.app/)
 
